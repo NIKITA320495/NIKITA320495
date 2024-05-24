@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 👋 Hi! I'm Nikita, an AI and Data Science student deeply passionate about AI, ML, and NLP. With expertise in web development and a knack for data structures and algorithms, I'm always eager to tackle new challenges and collaborate on exciting projects. Let's innovate together!
 <br>
 🔭 I’m currently working on Machine learning projects<br>🌱 I’m currently learning Deep learning AI<br>💬 Ask me about Data structures and algorithms<br>

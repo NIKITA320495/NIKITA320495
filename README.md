@@ -1,7 +1,6 @@
 # 💫 About Me:   
-👋 Hi! I'm Nikita, an AI and Data Science student deeply passionate about AI, ML, and NLP. With expertise in web development and a knack for data structures and algorithms, I'm always eager to tackle new challenges and collaborate on exciting projects. Let's innovate together!
+👋 Hi! I'm Nikita, an AI and Data Science student deeply passionate about AIML, NLP and LLMs. With expertise in agentic AI and a knack for data structures and algorithms, I'm always eager to tackle new challenges and collaborate on exciting projects. Let's innovate together!
 <br>
-🔭 I’m currently working on Machine learning projects<br>🌱 I’m currently learning Deep learning AI<br>💬 Ask me about Data structures and algorithms<br>
 
 
 ## 🌐 lets connect:
@@ -18,12 +17,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NIKITA320495&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
- </div>
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=NIKITA320495&icon=0&color=0)](https://visitcount.itsvg.in)

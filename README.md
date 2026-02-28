@@ -1,6 +1,8 @@
-# 💫 About Me:   
-👋 Hi! I'm Nikita, an AI and Data Science student deeply passionate about AIML, NLP and LLMs. With expertise in agentic AI and a knack for data structures and algorithms, I'm always eager to tackle new challenges and collaborate on exciting projects. Let's innovate together!
-<br>
+# 💫 About Me:
+
+![Hello Gif](https://github.com/NIKITA320495/NIKITA320495/raw/main/hello.gif)
+
+👋 Hi! I'm Nikita, an AI and Data Science student deeply passionate about AIML, NLP and LLMs...
 
 
 ## 🌐 lets connect:
